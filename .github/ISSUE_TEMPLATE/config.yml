@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🏆 NSOC 2026 Issue Catalog
+    url: https://github.com/DebasmitaBose0/CogniSphere-AI/blob/main/NSOC_ISSUES_CATALOG.md
+    about: Browse 12 curated ready-to-solve issues with difficulty tiers and score points!
+  - name: 💬 NSOC Contributor Discussion
+    url: https://github.com/DebasmitaBose0/CogniSphere-AI/discussions
+    about: Ask questions or discuss architecture with the Project Administrator (PA).
